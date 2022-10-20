@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="_$H6+RnmCn0lm;44MCL]" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="C~7RNG1nQ6oM{2m{8J3V"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="device_button_event" id="j8A(27I9f_6f5pv1#xRe" x="276" y="5"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="JRUqhm%FC8uq0QrtFoKw"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="device_button_event" id="PqHru3cU6QDce+=v,}9n" x="0" y="324"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="y%.t^EVm4ihY9Y8fgbN,"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . . # . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_gesture_event" id="Lu9bmmej:SLDN:Akd4W1" x="293" y="322"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="h`$]CpHo.]PM?R|wqq6x"><field name="LEDS">`
+        # . . . # 
+        # # . # # 
+        . . . . . 
+        . . # . . 
+        # # . # #
+        `</field></block></statement></block></xml>
